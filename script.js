@@ -1,5 +1,4 @@
 $(document).ready(function () {
-    //setup multiple rows of colours, can also add and remove while spinning but overall this is easier.
     initWheel();
 
     $('button').on('click', function () {
